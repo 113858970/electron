@@ -1,9 +1,24 @@
-# node >+ 10 , 确保electron-builder全局按照
+# 使用 Electron 完成了一个简单的本地音乐播放器
+node >+ 10 , 确保electron-builder全局按照
 
 
-#本地开发环境
+使用本项目
+
+第一步安装依赖
+
+```bash
 cnpm install
-npm run start
+```
 
-#生成dmg文件
+本地运行项目
+
+```bash
+npm start
+```
+
+项目打包成 App
+
+```bash
 npm run dist
+```
+
