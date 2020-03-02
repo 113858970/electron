@@ -1,5 +1,5 @@
 # 使用 Electron 完成了一个简单的本地音乐播放器
-node >+ 10 , 确保electron-builder全局按照
+node >+ 10 , 确保electron-builder全局安装
 
 
 使用本项目
